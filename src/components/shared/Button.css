@@ -1,0 +1,23 @@
+.default {
+  background-color: #4caf50;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 6px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.primary {
+  background-color: #008cba;
+ 
+}
+
+.danger {
+  background-color: #f44336;
+  
+}
